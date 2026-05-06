@@ -1,0 +1,29 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+userSettings/
+
+# VisualStudio
+.vs/
+*.csproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# Photon
+Assets/Photon/
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
